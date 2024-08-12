@@ -92,7 +92,7 @@ cd myFisrtWebAPI
 
 <h2 id="contribuidores">Contribuidores</h2>
 <ul>
-  <li><strong>Autor</strong>: [Caio Farias]</li>
+  <li><strong>Autor</strong>: Caio Farias</li>
 </ul>
 <p>Contribuições são bem-vindas! Por favor, faça um fork do repositório e envie um pull request.</p>
 
