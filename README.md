@@ -29,7 +29,7 @@
 <p>Para configurar e executar este projeto localmente, siga estas etapas:</p>
 <ol>
   <li><strong>Clone o repositório:</strong>
-    <pre><code>git clone &lt;[url-do-repositorio](https://github.com/caioskywalker/primeiroAPIRest/tree/main)&gt;
+    <pre><code>git clone https://github.com/caioskywalker/primeiroAPIRest/tree/main;
 cd myFisrtWebAPI
     </code></pre>
   </li>
