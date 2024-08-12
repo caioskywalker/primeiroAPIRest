@@ -66,7 +66,7 @@ cd myFisrtWebAPI
 <p>Este projeto depende das seguintes bibliotecas, gerenciadas via Maven:</p>
 <ul>
   <li>Spring Boot Starter Web</li>
-  <li>ArrayList para simular um banco de dados</li>
+  <li>Swagger</li>
 </ul>
 <p>Essas dependências estão definidas no arquivo <code>pom.xml</code>.</p>
 
